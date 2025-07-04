@@ -11,7 +11,7 @@ const FoodCard = ({id,name,price,rating,desc,img ,handleToast}) => {
 
   return (
     
-<div className="w-[240px] bg-gray-100 p-5 flex flex-col rounded-xl gap-3 shadow-md
+<div className="w-[250px] bg-gray-100 p-5 flex flex-col rounded-xl gap-3 shadow-md
        hover:shadow-2xl hover:scale-[1.03] transition-all duration-500 ease-in-out font-bold">
 
   
